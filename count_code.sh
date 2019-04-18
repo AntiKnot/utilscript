@@ -11,3 +11,6 @@ cloc -by-file xx.py
 
 # ubuntu install 
 sudo apt-get install cloc
+
+# simple command
+wc -l *.py
